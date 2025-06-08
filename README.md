@@ -1,5 +1,6 @@
 # Hi there, I'm Raushan Kumar! 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raushan-kumar.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisraushankumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raushan-kumar7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan911721@gmail.com)
@@ -84,6 +85,12 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 **Bachelor of Technology - Computer Science and Engineering**  
 *Lovely Professional University, Punjab* | CGPA: 7.35 | 2021 - Present
 
+**Intermediate (12th Grade)**  
+*Laxmi Narayan Dubey College, Motihari, Bihar* | Percentage: 84.4% | 2019 - 2021
+
+**Matriculation (10th Grade)**  
+*T R M P High School, Ghorasahan, Bihar* | Percentage: 82.2% | 2018 - 2019
+
 ## 💼 Experience
 
 **Associate Developer (Intern)** | *Tech Mahindra* | March 2025 - Present
@@ -97,6 +104,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raushan-kumar.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisraushankumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raushan-kumar7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raushan911721@gmail.com)
