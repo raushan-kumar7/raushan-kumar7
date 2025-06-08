@@ -48,14 +48,14 @@ I'm a passionate **Full Stack Developer** and **Computer Science Engineering** s
 - Built a web platform that generates images from text prompts using ClipDrop API
 - Implemented user authentication and credit-based system
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- 🔗 [View Project](#)
+- 🔗 [View Project](https://github.com/raushan-kumar7/inpicai)
 
 ### ✈️ ExploreEase
 **Comprehensive Travel Booking Platform**
 - Streamlined travel booking process with personalized experiences
 - Achieved high user satisfaction and improved conversion rates
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase
-- 🔗 [View Project](#)
+- 🔗 [View Project](https://github.com/raushan-kumar7/explore-ease)
 
 ## 🏆 Achievements & Certifications
 
