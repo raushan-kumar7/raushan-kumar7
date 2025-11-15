@@ -147,6 +147,10 @@ I'm always excited to connect with fellow developers, discuss innovative project
 
 <div align="center">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="border-radius: 15px; margin: 20px 0;"/>
+</div>
+
 ### 🚀 Ready to Code the Future!
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
