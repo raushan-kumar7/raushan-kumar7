@@ -15,50 +15,20 @@
 
 ## 👨‍💻 Professional Summary
 
-Results-driven Full Stack Developer with expertise in modern web technologies and a Bachelor's degree in Computer Science Engineering from Lovely Professional University. Currently contributing as an Associate Developer Intern at Tech Mahindra, delivering responsive web solutions and maintaining high code quality standards. Passionate about creating efficient, scalable applications and solving complex problems.
+Results-driven Full Stack Developer with expertise in modern web technologies and a Bachelor's degree in Computer Science Engineering from Lovely Professional University. Currently contributing as an **Associate Developer Intern at Tech Mahindra**, delivering responsive web solutions and maintaining high code quality standards. Passionate about creating efficient, scalable applications and solving complex problems.
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Technical Skills Matrix
 
-### **Frontend Development**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</div>
-
-### **Backend Development**
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-</div>
-
-### **Databases & Cloud**
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</div>
-
-### **Tools & Platforms**
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
-</div>
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Other** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
 
 ---
 
@@ -67,29 +37,29 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 ### **Associate Developer Intern**
 **Tech Mahindra** | *March 2025 - Present*
 
-- Developed responsive web applications for enterprise clients including Haleon
-- Implemented cross-browser compatible solutions ensuring seamless user experience
-- Maintained code quality standards and followed best practices in web development
-- Collaborated with team members to deliver high-quality software solutions
+- Developed **responsive web applications** for enterprise clients including Haleon, focusing on front-end performance and maintainability.
+- Implemented **cross-browser compatible solutions** ensuring a seamless and consistent user experience across various platforms.
+- Maintained **high code quality standards** by following industry best practices and conducting rigorous code reviews.
+- Collaborated effectively with cross-functional team members to deliver high-quality software solutions on tight schedules.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### **InPic AI - AI Image Generation Platform**
-*A comprehensive platform for AI-powered image generation from text prompts*
+*A comprehensive platform for AI-powered image generation from text prompts.*
 
 - **Technologies:** React.js, Node.js, Express.js, MongoDB, ClipDrop API
-- **Key Features:** User authentication, credit-based generation system, intuitive UI
-- **Impact:** Enabled users to create custom images through AI technology
+- **Key Features:** Secure **User Authentication**, **Credit-based Generation System**, and an intuitive, modern UI.
+- **Impact:** Successfully enabled users to create high-quality, custom images using cutting-edge AI technology.
 - 🔗 [View Repository](https://github.com/raushan-kumar7/inpicai)
 
 ### **ExploreEase - Travel Booking Platform**
-*Full-stack travel booking application with personalized experiences*
+*Full-stack travel booking application built for personalized and streamlined user experiences.*
 
 - **Technologies:** React.js, Node.js, Express.js, MongoDB, Firebase
-- **Key Features:** Streamlined booking process, user profiles, responsive design
-- **Impact:** Enhanced user satisfaction and improved conversion rates
+- **Key Features:** **Streamlined booking process**, customizable **User Profiles**, and a fully **Responsive Design**.
+- **Impact:** Enhanced user satisfaction by simplifying the booking flow and improved potential conversion rates.
 - 🔗 [View Repository](https://github.com/raushan-kumar7/explore-ease)
 
 ---
@@ -98,7 +68,7 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 
 ### **Bachelor of Technology in Computer Science & Engineering**
 **Lovely Professional University, Punjab** | *Aug 2021 - Sep 2025*
-- **CGPA:** 7.54/10.0
+- **CGPA:** **7.54/10.0**
 - **Relevant Coursework:** Data Structures, Algorithms, Database Management, Web Technologies, Software Engineering
 
 ### **Intermediate (12th Grade)**
@@ -113,25 +83,25 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 
 ## 📜 Certifications
 
-- **Advanced React** - Meta (April 2024)
-- **Server-side JavaScript with Node.js** - NIIT (April 2024)
-- **Frontend Web Development** - Various Platforms
+* **Advanced React** - Meta (April 2024)
+* **Server-side JavaScript with Node.js** - NIIT (April 2024)
+* **Frontend Web Development** - Various Platforms
 
 ---
 
 ## 🏆 Technical Proficiencies
 
 ### **Problem Solving & Algorithms**
-- Strong foundation in data structures and algorithms
-- Experience with competitive programming platforms
-- Systematic approach to problem-solving and optimization
+- **Strong foundation** in core data structures and algorithms.
+- Experience with competitive programming platforms and optimizing code complexity.
+- Systematic and logical approach to problem-solving and application performance optimization.
 
 ### **Development Methodologies**
-- Agile development practices
-- Version control with Git
-- Responsive design principles
-- RESTful API development
-- Database design and optimization
+- Proficient in **Agile development practices** (Scrum/Kanban).
+- Expert use of **Version Control with Git** (branching, merging, pull requests).
+- Deep understanding of **Responsive Design Principles** (Mobile-first approach).
+- Experience in designing and developing scalable **RESTful APIs**.
+- Skilled in database design and performance optimization (indexing, query tuning).
 
 ---
 
@@ -153,7 +123,7 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 
 ## 📞 Let's Connect
 
-I'm always interested in connecting with professionals, discussing new opportunities, and collaborating on innovative projects. Feel free to reach out!
+I'm always interested in connecting with fellow professionals, discussing new opportunities, and collaborating on innovative projects. Feel free to reach out!
 
 <div align="center">
 
