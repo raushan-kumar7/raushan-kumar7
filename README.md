@@ -123,11 +123,6 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 </div>
 
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan-kumar7&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide=html,css)
-
-</div>
 
 ---
 
