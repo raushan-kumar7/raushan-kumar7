@@ -105,13 +105,23 @@ Results-driven Full Stack Developer with expertise in modern web technologies an
 
 ---
 
-## 📈 GitHub Overview
+</div>
+
+## 📊  📈 GitHub Overview
+
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 20px; padding: 30px; margin: 30px 0;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imraushankr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&cache_seconds=86400" style="border-radius: 15px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imraushankr&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=86400" style="border-radius: 15px;"/>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imraushankr&theme=tokyonight&border_radius=15&border=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);"/>
+</div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=raushan-kumar7&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imraushankr&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&border_radius=15" alt="GitHub Activity Graph" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); margin: 20px 0;"/>
 </div>
+
 
 <div align="center">
 
