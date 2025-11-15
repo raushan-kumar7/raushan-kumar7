@@ -1,4 +1,4 @@
-# Hi there, I'm Raushan Kumar! 👋
+# Hi there, I'm 𝗥𝗔𝗨𝗦𝗛𝗔𝗡 𝗞𝗨𝗠𝗔𝗥! 👋
 
 <div align="center">
 
@@ -17,57 +17,57 @@
   
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 
-Results-driven **Full Stack Developer** with expertise in modern web technologies and a Bachelor's degree in **Computer Science Engineering** from Lovely Professional University. Currently contributing as an **Associate Software Engineer at Tech Mahindra**, delivering responsive web solutions and maintaining high code quality standards. Passionate about creating efficient, scalable applications and solving complex problems.
+Results-driven **𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿** with expertise in modern web technologies and a Bachelor's degree in **𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴** from Lovely Professional University. Currently contributing as an **𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗮𝘁 𝗧𝗲𝗰𝗵 𝗠𝗮𝗵𝗶𝗻𝗱𝗿𝗮**, delivering responsive web solutions and maintaining high code quality standards. Passionate about creating efficient, scalable applications and solving complex problems.
 
 </div>
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Styling** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Other** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+| **𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **𝗦𝘁𝘆𝗹𝗶𝗻𝗴** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **𝗕𝗮𝗰𝗸𝗲𝗻𝗱** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **𝗧𝗼𝗼𝗹𝘀 & 𝗖𝗹𝗼𝘂𝗱** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **𝗢𝘁𝗵𝗲𝗿** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
 
 ---
 
-## 💼 Professional Experience
+## 💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
 
-### **👨‍💻 Associate Software Engineer** 
-**🏢 Tech Mahindra** | **📅 March 2025 - Present**
+### **👨‍💻 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** 
+**🏢 𝗧𝗲𝗰𝗵 𝗠𝗮𝗵𝗶𝗻𝗱𝗿𝗮** | **📅 𝗠𝗮𝗿𝗰𝗵 𝟮𝟬𝟮𝟱 - 𝗣𝗿𝗲𝘀𝗲𝗻𝘁**
 
-> 🔹 Developed **responsive web applications** for enterprise clients including Haleon, focusing on front-end performance and maintainability  
-> 🔹 Implemented **cross-browser compatible solutions** ensuring seamless user experience across platforms  
-> 🔹 Maintained **high code quality standards** by following industry best practices and conducting code reviews  
+> 🔹 Developed **𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** for enterprise clients including Haleon, focusing on front-end performance and maintainability  
+> 🔹 Implemented **𝗰𝗿𝗼𝘀𝘀-𝗯𝗿𝗼𝘄𝘀𝗲𝗿 𝗰𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗹𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀** ensuring seamless user experience across platforms  
+> 🔹 Maintained **𝗵𝗶𝗴𝗵 𝗰𝗼𝗱𝗲 𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝘀𝘁𝗮𝗻𝗱𝗮𝗿𝗱𝘀** by following industry best practices and conducting code reviews  
 > 🔹 Collaborated effectively with cross-functional teams to deliver high-quality software solutions
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <div align="center">
 
-### **🤖 InPic AI - AI Image Generation Platform**
+### **🤖 𝗜𝗻𝗣𝗶𝗰 𝗔𝗜 - 𝗔𝗜 𝗜𝗺𝗮𝗴𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
 
 <div align="left">
 
 > *A comprehensive platform for AI-powered image generation from text prompts*
 
-**🛠️ Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `ClipDrop API`
+**🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:** `React.js` `Node.js` `Express.js` `MongoDB` `ClipDrop API`
 
-**✨ Key Features:**
-- 🔐 Secure **User Authentication**
-- 💳 **Credit-based Generation System** 
+**✨ 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:**
+- 🔐 Secure **𝗨𝘀𝗲𝗿 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻**
+- 💳 **𝗖𝗿𝗲𝗱𝗶𝘁-𝗯𝗮𝘀𝗲𝗱 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺** 
 - 🎨 Intuitive, modern UI
 
-**📈 Impact:** Successfully enabled users to create high-quality, custom images using cutting-edge AI technology
+**📈 𝗜𝗺𝗽𝗮𝗰𝘁:** Successfully enabled users to create high-quality, custom images using cutting-edge AI technology
 
 <div align="left">
   
@@ -79,20 +79,20 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 
 ---
 
-### **✈️ ExploreEase - Travel Booking Platform**
+### **✈️ 𝗘𝘅𝗽𝗹𝗼𝗿𝗲𝗘𝗮𝘀𝗲 - 𝗧𝗿𝗮𝘃𝗲𝗹 𝗕𝗼𝗼𝗸𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺**
 
 <div align="left">
 
 > *Full-stack travel booking application built for personalized and streamlined user experiences*
 
-**🛠️ Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase`
+**🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase`
 
-**✨ Key Features:**
-- ⚡ **Streamlined booking process**
-- 👤 Customizable **User Profiles**
-- 📱 Fully **Responsive Design**
+**✨ 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:**
+- ⚡ **𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝗻𝗲𝗱 𝗯𝗼𝗼𝗸𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀**
+- 👤 Customizable **𝗨𝘀𝗲𝗿 𝗣𝗿𝗼𝗳𝗶𝗹𝗲𝘀**
+- 📱 Fully **𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻**
 
-**📈 Impact:** Enhanced user satisfaction by simplifying the booking flow and improved potential conversion rates
+**📈 𝗜𝗺𝗽𝗮𝗰𝘁:** Enhanced user satisfaction by simplifying the booking flow and improved potential conversion rates
 
 <div align="left">
   
@@ -106,24 +106,24 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 
 ---
 
-## 🎓 Education
+## 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
 <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); border-radius: 15px; padding: 25px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
 
-**🎓 Bachelor of Technology - Computer Science and Engineering**  
+**🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴**  
 *Lovely Professional University, Punjab* | CGPA: 7.54 | Aug 2021 - Sep 2025
 
-**📚 Intermediate (12th Grade)**  
+**📚 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 (12th Grade)**  
 *Laxmi Narayan Dubey College, Motihari, Bihar* | Percentage: 84.4% | 2019 - 2021
 
-**📖 Matriculation (10th Grade)**  
+**📖 𝗠𝗮𝘁𝗿𝗶𝗰𝘂𝗹𝗮𝘁𝗶𝗼𝗻 (10th Grade)**  
 *T R M P High School, Ghorasahan, Bihar* | Percentage: 82.2% | 2018 - 2019
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 
 ---
 
-## 📞 Let's Connect
+## 📞 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
 
 <div align="center">
 
@@ -159,7 +159,7 @@ I'm always interested in connecting with fellow professionals, discussing new op
 
 <br>
 
-**Thanks for visiting! Let's build something amazing together.** 🚀
+**𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴! 𝗟𝗲𝘁'𝘀 𝗯𝘂𝗶𝗹𝗱 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗮𝗺𝗮𝘇𝗶𝗻𝗴 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.** 🚀
 
 </div>
 
